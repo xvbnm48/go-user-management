@@ -1,0 +1,63 @@
+{
+  "id": "ac9c74dc-7bf6-4f4d-88b9-28359a10becf",
+  "brand": "Lenovo",
+  "name": "Thinkpad X1 Carbon",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 3",
+    "number_cores": 5,
+    "number_threads": 10,
+    "min_ghz": 2.3012532360749804,
+    "max_ghz": 4.703650102959518
+  },
+  "ram": {
+    "value": "46",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "Radeon RX 550",
+      "number_cores": 0,
+      "min_ghz": 1.1840713527381375,
+      "max_ghz": 1.736653388845689,
+      "memory": {
+        "value": "6",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "867",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "447",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inc": 23.731115,
+    "resolution": {
+      "width": 4972,
+      "height": 2797
+    },
+    "panel": "OLED",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": false
+  },
+  "weight_kg": 1.8315586723835975,
+  "price_usd": 1867.4390791949652,
+  "release_year": 2016,
+  "updated_at": "2022-09-14T02:26:38.204682953Z"
+}
